@@ -1,0 +1,7 @@
+C:\Users\Utilizador\Source\Repos\Vestas_DevAssessement2\Vestas_DevAssessement2\bin\Debug\Vestas_DevAssessement2.exe.config
+C:\Users\Utilizador\Source\Repos\Vestas_DevAssessement2\Vestas_DevAssessement2\bin\Debug\Vestas_DevAssessement2.exe
+C:\Users\Utilizador\Source\Repos\Vestas_DevAssessement2\Vestas_DevAssessement2\bin\Debug\Vestas_DevAssessement2.pdb
+C:\Users\Utilizador\Source\Repos\Vestas_DevAssessement2\Vestas_DevAssessement2\obj\Debug\Vestas_DevAssessement2.csprojAssemblyReference.cache
+C:\Users\Utilizador\Source\Repos\Vestas_DevAssessement2\Vestas_DevAssessement2\obj\Debug\Vestas_DevAssessement2.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Source\Repos\Vestas_DevAssessement2\Vestas_DevAssessement2\obj\Debug\Vestas_DevAssessement2.exe
+C:\Users\Utilizador\Source\Repos\Vestas_DevAssessement2\Vestas_DevAssessement2\obj\Debug\Vestas_DevAssessement2.pdb
